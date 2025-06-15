@@ -125,13 +125,3 @@ A real-time collaborative coding environment enhanced with AI assistance, enabli
 9.  **Run the Project:**
 
     Click the "run" button in the code editor to execute the project using WebContainers.
-
-
-
-## License Information
-
-No license is specified for this project.  All rights are reserved.
-
-## Contact/Support Information
-
-For any questions or support requests, please contact Ashutoshgola through GitHub.
